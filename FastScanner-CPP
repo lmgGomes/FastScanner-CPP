@@ -1,0 +1,5 @@
+FastScanner-CPP/
+├── core/
+│   └── scanner.cpp    # O código principal
+├── .gitignore         # Para ignorar o executável compilado
+└── README.md          # Instruções de uso
